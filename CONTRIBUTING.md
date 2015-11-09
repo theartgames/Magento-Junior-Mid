@@ -29,7 +29,7 @@ Adhering to the following process is the best way to get your work included in t
 
    ```bash
    # Clone your fork of the repo into the current directory
-   git clone https://github.com/<your-username>/webdeveloper-test.git
+   git clone https://github.com/<your-username>/Magento-Junior-Mid.git
    # Navigate to the newly cloned directory
    cd Magento-Junior-Mid
    # Assign the original repo to a remote called "upstream"
