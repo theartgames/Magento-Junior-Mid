@@ -2,10 +2,10 @@
 Magento Junior-Mid Developer Test
 
 The task is to create a custom admin extension for Magento 1.x CE named "Bulk Product Images Upload".
-Extension uploads and sets images into products media gallery based on some criteria.
+Extension uploads and sets images into products' media gallery based on some criteria.
 
 ** Extension's features: **
- - [ ] Local FTP source magento_installation/media/upload/
+ - [ ] Local FTP source for images magento_installation/media/upload/
  - [ ] Multiple image AJAX uploader (+5 bouns points)
  - [ ] Zip file uploader (+5 bonus points)
  - [ ] User can choose which product's custom attribute image name should be matched against (id, sku, or any custom attribute)
